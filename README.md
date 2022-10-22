@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1) Do proper mapping in `books.service.ts` file
 2) Integrate `Loader` by using `Decorator`
-3) [.Decorator Ref.](https://medium.com/@abidhmuhsin/decorator-based-loader-for-angular-httpclient-f5b68853fb90)
+3) [Decorator Ref.](https://medium.com/@abidhmuhsin/decorator-based-loader-for-angular-httpclient-f5b68853fb90)
